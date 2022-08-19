@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\bin\Debug\information_form.exe.config
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\bin\Debug\information_form.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\bin\Debug\information_form.pdb
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\obj\Debug\information_form.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\obj\Debug\information_form.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\obj\Debug\information_form.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\obj\Debug\information_form.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\information_form\information_form\obj\Debug\information_form.pdb

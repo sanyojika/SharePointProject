@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\bin\Debug\from12.exe.config
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\bin\Debug\from12.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\bin\Debug\from12.pdb
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\obj\Debug\from12.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\obj\Debug\from12.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\obj\Debug\from12.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\obj\Debug\from12.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\from12\from12\obj\Debug\from12.pdb

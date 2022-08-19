@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\bin\Debug\greencard.exe.config
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\bin\Debug\greencard.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\bin\Debug\greencard.pdb
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\obj\Debug\greencard.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\obj\Debug\greencard.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\obj\Debug\greencard.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\obj\Debug\greencard.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\greencard\greencard\obj\Debug\greencard.pdb

@@ -1,0 +1,3 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\foreign\foreign\obj\Debug\foreign.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\foreign\foreign\obj\Debug\foreign.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\foreign\foreign\obj\Debug\foreign.csproj.CoreCompileInputs.cache

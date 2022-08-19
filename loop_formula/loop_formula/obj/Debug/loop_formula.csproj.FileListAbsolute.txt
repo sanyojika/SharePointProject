@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\bin\Debug\loop_formula.exe.config
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\bin\Debug\loop_formula.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\bin\Debug\loop_formula.pdb
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\obj\Debug\loop_formula.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\obj\Debug\loop_formula.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\obj\Debug\loop_formula.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\obj\Debug\loop_formula.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\loop_formula\loop_formula\obj\Debug\loop_formula.pdb

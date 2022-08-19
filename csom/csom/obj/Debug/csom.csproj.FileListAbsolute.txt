@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\bin\Debug\csom.exe.config
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\bin\Debug\csom.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\bin\Debug\csom.pdb
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\obj\Debug\csom.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\obj\Debug\csom.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\obj\Debug\csom.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\obj\Debug\csom.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\csom\csom\obj\Debug\csom.pdb

@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\bin\Debug\loginid.exe.config
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\bin\Debug\loginid.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\bin\Debug\loginid.pdb
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\obj\Debug\loginid.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\obj\Debug\loginid.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\obj\Debug\loginid.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\obj\Debug\loginid.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\loginid\loginid\obj\Debug\loginid.pdb

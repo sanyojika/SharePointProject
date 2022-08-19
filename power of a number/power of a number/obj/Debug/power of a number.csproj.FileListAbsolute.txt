@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\bin\Debug\power of a number.exe.config
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\bin\Debug\power of a number.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\bin\Debug\power of a number.pdb
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\obj\Debug\power of a number.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\obj\Debug\power of a number.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\obj\Debug\power of a number.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\obj\Debug\power of a number.exe
+C:\Users\HP\OneDrive\Desktop\mobile app\power of a number\power of a number\obj\Debug\power of a number.pdb
